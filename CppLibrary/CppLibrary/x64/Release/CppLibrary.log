@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CppLibrary.cpp
+  dllmain.cpp
+     Creating library F:\Assignment\CppLibrary\x64\Release\CppLibrary.lib and object F:\Assignment\CppLibrary\x64\Release\CppLibrary.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CppLibrary.vcxproj -> F:\Assignment\CppLibrary\x64\Release\CppLibrary.dll
