@@ -5,7 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CppDlls\" />
+    <Compile Remove="CppDlls\**" />
+    <Content Remove="CppDlls\**" />
+    <EmbeddedResource Remove="CppDlls\**" />
+    <None Remove="CppDlls\**" />
   </ItemGroup>
 
 
